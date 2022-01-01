@@ -1,0 +1,30 @@
+8fedc25b38974b92a49026d454c9a547
+
+API Key Details - Bachelor's Kitchen
+NOTE: Please make a copy of your OAuth 2.0 Client Secret as this is your only opportunity to view it. It cannot be retrieved later.
+Your OAuth 2.0 Client Secret is: abc28b6b67784aba8a10a3de09487fc9
+Using your Key with the REST API:
+All requests to the The FatSecret Platform REST API must be correctly signed using OAuth. For more information and instructions in relation to authentication please refer to the REST API Authentication guide.
+REST API OAuth 2.0 Credentials:
+Your Client ID:
+449773e72f6f44cb98c2c6b15b25d317
+Your Client Secret:
+abc28b6b67784aba8a10a3de09487fc9
+Please make a copy of your OAuth 2.0 Client Secret as this is your only opportunity to view it. It cannot be retrieved later.
+
+If you would like to reset your Client Secret click here.
+If you would like to disable OAuth 2.0 click here.
+
+Allowed IP Addresses:
+N/A
+You must specify at least one IP address to begin using OAuth 2.0
+
+To add/edit your allowed IP addresses click here.
+
+NOTE: Please be aware that it may take up to 24 hours for any IP address changes to take effect.
+
+REST API OAuth 1.0 Credentials:
+Your Consumer Key:
+449773e72f6f44cb98c2c6b15b25d317
+Your Consumer Secret:
+828f5aed48f04926ad77e8f00f07e95f
